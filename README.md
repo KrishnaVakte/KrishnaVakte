@@ -1,4 +1,4 @@
-# Hi there, I'm [Krishna Vakte]! 👋
+# Hi there, I'm [Krishna Vakte](https://github.com/KrishnaVakte/)! 👋
 
 
 ## About Me
@@ -44,8 +44,8 @@ A very impressive Fullstack MERN project which include all basic functionality o
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnaVakte&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaVakte&layout=compact&hide_border=true)
 
 ## Let's Connect!
 
