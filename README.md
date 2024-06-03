@@ -34,7 +34,7 @@ I am a passionate IT student pursuing my Bachelor of Engineering in Information 
 
 ## Projects
 
-  ### [Project 1: Tomato - an Food Delivery App](https://github.com/KrishnaVakte/food-delivery)
+  ### [Project 1: Tomato - Food Delivery App](https://github.com/KrishnaVakte/food-delivery)
 A food delivery platform built with the MERN stack, featuring user authentication, product management, and payment integration.
 
 ### [Project 2: iNotes - Notes management app](https://github.com/KrishnaVakte/inotes)
