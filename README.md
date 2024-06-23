@@ -44,10 +44,10 @@ I am a passionate IT student pursuing my Bachelor of Engineering in Information 
 
 You can find me on various CP platforms:
 
-- ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black) [  LeetCode](https://leetcode.com/u/krishnavakte_25/)
-- ![CodingNinjas](https://img.shields.io/badge/CodingNinjas-00EA64?style=for-the-badge&logo=CodingNinjas&logoColor=red) [  CodingNinjas](https://www.naukri.com/code360/profile/01e91a10-7b08-4a82-ae64-72a84572d4fd)
-- ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white) [  CodeChef](https://www.codechef.com/users/krishna_vakte)
-- ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white) [  Codeforces](https://codeforces.com/profile/Krishna_25)
+- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/krishnavakte_25/)
+- [![CodingNinjas](https://img.shields.io/badge/CodingNinjas-000000?style=for-the-badge&logo=CodingNinjas&logoColor=red)](https://www.naukri.com/code360/profile/01e91a10-7b08-4a82-ae64-72a84572d4fd)
+- [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/krishna_vakte)
+- [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Krishna_25)
 
   
 
