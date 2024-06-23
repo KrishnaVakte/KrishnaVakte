@@ -6,7 +6,7 @@
 I am a passionate IT student pursuing my Bachelor of Engineering in Information Technology. I have a strong foundation in web development, particularly with the MERN stack, and have hands-on experience with payment integration, C++ programming, version control, and problem-solving.
 
 - 🌱 I’m actively learning new technology in web devlopment.
-- 👯 I like to solve CP (Competitive Programing) problems.
+- 👯 200+ Competitive Programming problems solved on various Platforms.
 - 💬 Web development (MERN stack), C++,Python, DSA and problem-solving.
 - 📫 How to reach me: [krishnavakte25@gmail.com](mailto:krishnavakte25@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
