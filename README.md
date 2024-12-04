@@ -67,7 +67,6 @@ Feel free to explore my more projects on my [GitHub profile](https://github.com/
 
 
 ## 📊 GitHub Stats
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=KrishnaVakte&theme=highcontrast&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaVakte&theme=highcontrast&layout=compact&hide_border=true)
 
 
